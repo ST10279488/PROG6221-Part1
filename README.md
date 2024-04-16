@@ -4,3 +4,4 @@ When asked, you can add ingredients, for instance, by entering their name, quant
 Enter Recipe Information: Users are able to enter recipe information such as the number of components and steps, along with the name, amount, and measurement unit for each item and a step-by-step description.
 Reset Quantities: After scaling or altering any ingredient quantity, users have the option to return it all to its initial amounts.
 Clear Data: To begin inputting a new recipe from scratch, users can choose to remove all of the entered data.
+https://github.com/ST10279488/PROG6221-Part1.git
